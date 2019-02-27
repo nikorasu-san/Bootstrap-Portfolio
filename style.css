@@ -53,22 +53,16 @@ body {
 
 @media only screen and (max-width: 768px) {
   .main {
-    /* width: 738px; */
     left: -25px;
     width: 570px;
-    /* left: 0px; */
   }
 
   .navclear {
     clear: both;
-    /* text-align: center;
-        width: 100%; */
     margin-left: -25px !important;
-    /* padding: 0px!important; */
   }
 
   .clear-about {
-    /* padding-top: 5px!important; */
     padding-right: 5px !important;
     padding-bottom: 5px !important;
   }
@@ -84,9 +78,6 @@ body {
   }
 
   .clear-contain {
-    /* margin-left: 0px!important;
-        margin-right: -1rem!important; */
-    /* margin-right: 0px!important; */
     width: 100% !important;
   }
 
