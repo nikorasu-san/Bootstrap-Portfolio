@@ -3,7 +3,7 @@ body {
 }
 
 .contain {
-  width: 975px;
+  width: 82%;
 }
 
 .serif {
@@ -11,7 +11,7 @@ body {
 }
 
 .main {
-  width: 960px;
+  width: 101.0542%;
   height: 433px;
   overflow: scroll;
 }
@@ -37,6 +37,9 @@ body {
 .bg-teal {
   background-color: #4aaaa5 !important;
 }
+.text-reset:hover {
+  color: #4aaaa5 !important;
+}
 
 /* media queries */
 
@@ -48,6 +51,10 @@ body {
 
   .col-duo {
     max-width: 50% !important;
+  }
+
+  .text-reset {
+    color: #4aaaa5 !important;
   }
 }
 
