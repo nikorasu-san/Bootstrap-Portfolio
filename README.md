@@ -1,6 +1,6 @@
 # Bootstrap-Portfolio
 
-- Creating a mock Portfolio site using Bootstraps
+- Creating a Portfolio site using Bootstraps based on a image/template design. This site will host the projects worked on during the NU Web Developer Bootcamp
 
 ## Notes
 
